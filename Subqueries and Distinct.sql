@@ -7,7 +7,8 @@
 SELECT
 	TrackId,
 	Composer,
-	Name
+	Name,
+	Gen
 FROM
 	Track
 WHERE
