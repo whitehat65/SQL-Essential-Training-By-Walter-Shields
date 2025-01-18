@@ -6,6 +6,7 @@
 
 SELECT
 	TrackId,
+	Composer,
 	Name
 FROM
 	Track
